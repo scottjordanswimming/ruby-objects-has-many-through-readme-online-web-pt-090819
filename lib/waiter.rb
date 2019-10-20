@@ -28,7 +28,7 @@ def best_tipper
     |meal_a, meal_b|
     meal_a.tip <=> meal_b.tip 
   end 
-  best_tipped_meal.cusomter 
+  best_tipped_meal.customer 
 end
 
 
