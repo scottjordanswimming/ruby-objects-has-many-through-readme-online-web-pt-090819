@@ -5,7 +5,7 @@ class Meal
   @@all = []
   
   def initialize(waiter, customer, total, tip)
-    @name = name
+    @waiter = waiter
     @years = years
     @@all << self
     
